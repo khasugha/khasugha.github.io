@@ -62,7 +62,7 @@
 .yourshop-root,
 .clash-root-background /*,
 .champion-splash-background */ {
-   background-image: url('https://images3.alphacoders.com/716/716428.png') !important;
+   background-image: url('https://static.zerochan.net/full/45/33/3809195.jpg') !important;
    background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
@@ -83,7 +83,7 @@
 }
 
 .loot-backdrop .lol-uikit-video-content {
-   background: url(https://images3.alphacoders.com/716/716428.png) !important;
+   background: url('https://static.zerochan.net/full/45/33/3809195.jpg') !important;
    display: block;
    box-sizing: border-box;
    width: 180px;
